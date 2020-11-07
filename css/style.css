@@ -1,0 +1,39 @@
+/* Created by Dayu Wang (dwang@stchas.edu) on 2020-11-06 */
+
+/* Last updated by Dayu Wang (dwang@stchas.edu) on 2020-11-06 */
+
+body {
+    background-color: white;
+    font-family: Verdana,sans-serif;
+    font-size: 11pt;
+    color: black;
+    line-height: 150%;
+    margin: 0 auto 0 auto;
+    padding: 6pt 0;
+    text-align: left;
+    width: 600pt;
+}
+
+img {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table {
+    border-collapse: collapse;
+    border: none;
+    line-height: normal;
+}
